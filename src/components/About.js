@@ -1,12 +1,13 @@
 import React from "react"
 
 const About = () => {
+ 
   return (
     <>
-      <section className='hero'>
-        <h1>Welcome To About Page</h1>
+      <section className="hero">
+        this is  ABout
       </section>
     </>
-  )
+  );
 }
 export default About
